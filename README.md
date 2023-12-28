@@ -59,10 +59,10 @@ Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Efici
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/1280px-Valorant_logo_-_pink_color_version.svg.png"/>](https://playvalorant.com/)
-**Proplayer de Valorant** \
-[**VAVA dos Infieis**](https://playvalorant.com/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `PostgreSQL`
+**Sistemas de Informação** \
+[**Unipar**](https://www.unipar.br) \
+Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `SCSS`, `JavaScript`, `React.js`, `TypeScript`
+<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `DotNet`, `Spring Boot`,  `MySQL`
 
 ##
 
