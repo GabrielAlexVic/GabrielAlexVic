@@ -58,7 +58,7 @@ Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Efici
 #### Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-[<img align="left" height="px" width="180px" alt="Unipar" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v3cj10aefftq79e0owec"/>](https://playvalorant.com/)
+[<img align="left" height="94px" width="94px" alt="Unipar" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v3cj10aefftq79e0owec"/>](https://playvalorant.com/)
 **Sistemas de Informação** \
 [**Unipar**](https://www.unipar.br) \
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `SCSS`, `JavaScript`, `React.js`, `TypeScript`
