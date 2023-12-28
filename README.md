@@ -5,7 +5,7 @@
 
 - 🔰  Sou de Umuarama/PR, Brasil
 - 🧠 Cursando Sistemas de Informação
-- 🏦 Atualmente Estagiario de Desenvolvimento na [7COMM]([https://www.7COMm.com.br](https://www.7comm.com.br))
+- 🏦 Atualmente Estagiário de Desenvolvimento na [7COMM]([https://www.7COMm.com.br](https://www.7comm.com.br))
 
 ##
 
