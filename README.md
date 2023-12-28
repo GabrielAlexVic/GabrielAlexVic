@@ -4,8 +4,7 @@
 ### O meu nome é Gabriel Alexxandre Victorio, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou de Umuarama/PR, Brasil
-- ⚡ Ex pro player de Valorant
-- 🧠 Cursando Sistemas para Internet
+- 🧠 Cursando Sistemas de Informação
 - 🏦 Atualmente Estagiario de Desenvolvimento na [7COMM]([https://www.7COMm.com.br](https://www.7comm.com.br))
 
 ##
