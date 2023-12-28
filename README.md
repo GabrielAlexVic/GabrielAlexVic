@@ -58,7 +58,7 @@ Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Efici
 #### Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://up.unipar.br/wp-content/uploads/2022/12/ass.-visual-horizontal-carmin-e-black-Unipar.png](https://up.unipar.br/wp-content/uploads/2022/12/ass.-visual-horizontal-carmin-e-black-Unipar.png)](https://up.unipar.br/wp-content/uploads/2022/12/ass.-visual-horizontal-carmin-e-black-Unipar.png)"/>](https://playvalorant.com/)
+[<img align="left" height="94px" width="94px" alt="Unipar" src="[https://up.unipar.br/wp-content/uploads/2022/12/ass.-visual-horizontal-carmin-e-black-Unipar.png]"/>](https://playvalorant.com/)
 **Sistemas de Informação** \
 [**Unipar**](https://www.unipar.br) \
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `SCSS`, `JavaScript`, `React.js`, `TypeScript`
