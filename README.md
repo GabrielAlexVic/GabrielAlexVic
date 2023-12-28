@@ -34,13 +34,9 @@
 ##
 
 #### Como entrar em contato comigo: 
-[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/seu_usuario_do_linkedin/)
-[<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/seu_usuario_do_instagram/)
-[<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/seu_usuario_do_twitter)
-[<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:seu_endereco_de_email@gmail.com)
-[<img alt="Outlook" src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](mailto:seu_endereco_de_email@outlook.com)
-[<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:seu_endereco_de_email@icloud.com)
-
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-victorio/)
+<!--[<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:seu_endereco_de_email@gmail.com)-->
+[<img alt="Outlook" src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](mailto:gabrielvictorio2002@outlook.com)
 
 ##
 
